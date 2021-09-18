@@ -3,13 +3,14 @@
 
 ## Задача 1
 
-![alt_text](2_1.png)
+![schema](./2_1.png)
+
 
 ## Задача 2.2
 
-![alt_text](Vernikov_2_2.png)
+![schema](./Vernikov_2_2.png)
 
 
 ## Задача 3
 
-![alt_text](2_3)
+![schema](./2_3.png)
