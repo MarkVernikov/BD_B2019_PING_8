@@ -6,7 +6,7 @@
 ![schema](./2_1.png)
 
 
-## Задача 2.2
+## Задача 2
 
 ![schema](./Vernikov_2_2.png)
 
